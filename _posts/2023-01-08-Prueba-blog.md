@@ -1,5 +1,5 @@
 ---
 published: false
 ---
-##SITUACIONES DE APRENDIZAJE
+## SITUACIONES DE APRENDIZAJE
 
