@@ -4,7 +4,7 @@ title: ¡NUEVO BLOG!
 published: true
 ---
 
-La idea es publicar los exeLeraning creados para las materias: TIC, Tecnología y Computación y Robótica en la ESO
+La idea es publicar los exeLeraning creados para las materias: TIC, Tecnología y Computación y Robótica en la ESO.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
