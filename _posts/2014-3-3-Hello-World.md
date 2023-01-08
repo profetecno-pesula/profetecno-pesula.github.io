@@ -1,9 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: ¡NUEVO BLOG!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+La idea es publicar los exeLeraning creados para las materias: TIC, Tecnología y Computación y Robótica en la ESO
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
